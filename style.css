@@ -1,0 +1,82 @@
+@font-face {
+    font-family: JetBrainsMono;
+    src: 
+    /* url(fonts/JetBrainsMono-Bold-Italic.ttf),
+    url(fonts/JetBrainsMono-Bold.ttf),
+    url(fonts/JetBrainsMono-ExtraBold-Italic.ttf),
+    url(fonts/JetBrainsMono-ExtraBold.ttf),
+    url(fonts/JetBrainsMono-Italic.ttf),
+    url(fonts/JetBrainsMono-Medium-Italic.ttf),
+    url(fonts/JetBrainsMono-Medium.ttf), */
+    url(fonts/JetBrainsMono-Regular.ttf)
+    ;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: JetBrainsMono;
+}
+
+h2 {
+    margin-top: 0.5em;
+    margin-bottom: 0.3em;
+}
+
+hr {
+    clear: both;
+    margin: 1em;
+}
+
+.logo {
+    font-size: 1.5em;
+}
+
+header,
+footer {
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+main {
+    max-width: 960px;
+    width: 100%;
+    padding: 23px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+header nav a {
+    font-size: 42px;
+    text-decoration: none;
+    border-bottom: 3px dashed;
+    margin: 0.5em;
+    font-weight: bold;
+}
+
+header nav a:hover {
+    border-bottom-style: solid;
+}
+
+.torvalds-cite,
+.torvalds {
+    font-size: 47px;
+}
+
+.torvalds {
+    font-style: oblique;
+    text-align: right;
+}
+
+dl {
+    font-size: 1.6em;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    padding-left: 3em;
+}
