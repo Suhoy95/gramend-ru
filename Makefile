@@ -2,7 +2,7 @@ PAGES=index.html about.html appreciation.html
 
 all: $(PAGES)
 
-%.html: %.m4
+%.html: %.m4 $(wildcard include/*)
 	m4 --fatal-warnings -P $< > $@
 
 clean:

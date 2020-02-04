@@ -24,6 +24,16 @@ m4_define(<<<gramendHeader>>>, <<<m4_dnl
 >>>)m4_dnl
 m4_define(<<<gramendFooter>>>, <<<m4_dnl
     <hr />
+    <marquee direction="right">
+        <a href="http://ustalov.imm.uran.ru/"
+            target="_blank"
+            title="Know the roots!"
+            style="text-decoration: none;">
+            <img src="img/walking-cat.gif" alt="A cat">
+            <img src="img/counter.gif" alt="Billions of visitors">
+        </a>
+    </marquee>
+    <hr />
 
     <footer>
         <img src="$1" alt="$2" />
