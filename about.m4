@@ -1,32 +1,32 @@
 m4_include(`include/gramend-main.m4')m4_dnl
-gramendHeader(<<<About the company - Gramend Research and Development>>>)m4_dnl
+gramendHeader(<<<О компании - Конструкторско-Исследовательское Бюро Грамэнд>>>)m4_dnl
 
     <main>
         <section>
-            <h6>... The best is yet to come ...</h6>
-            <img src="img/ceo.jpg" alt="Are you also booked?" style="width: 33%;display: inline-block" />
+            <h6>... Лучшее впереди ...</h6>
+            <img src="img/ceo.jpg" alt="Вы тоже чей-то заказ?" style="width: 33%;display: inline-block" />
             <dl style="display: inline-block; width: 66%;">
-                <dt>Name:</dt>
-                <dd>Gramend Research and Development</dd>
-                <dt>Activity:</dt>
-                <dd>Solving non-standard technical tasks</dd>
-                <dt>Mission (3C):</dt>
-                <dd>Changing our life, changing the IT, changing the world</dd>
-                <dt>Chief Executive Officer:</dt>
+                <dt>Название:</dt>
+                <dd>Конструкторско-Исследовательское Бюро Грамэнд (КИБ Грамэнд)</dd>
+                <dt>Деятельность:</dt>
+                <dd>Решение сложных задач нестандартными путями</dd>
+                <dt>Миссия:</dt>
+                <dd>Изменять и изменяться</dd>
+                <dt>Директор:</dt>
                 <dd>
-                    Ilya Suhoplyuev
+                    Илья Сухоплюев
                     <br />
-                    master of Security and Network Engineering (<a href="https://os3.su/"
+                    магистр по построению безопасных Сетей и Приложений(<a href="https://os3.su/"
                         title="Open Standards, Open Software and Open Security">SNE/os3.su</a>)
                     <br />
-                    <a href="https://university.innopolis.ru/en/">Innopolis University</a>
+                    <a href="https://university.innopolis.ru/en/">Университет Иннополис</a>
                 </dd>
-                <dt>Contacts:</dt>
-                <dd>See you on <a href="https://github.com/Suhoy95" title="">GitHub</a></dd>
+                <dt>Контакты:</dt>
+                <dd>Ищи на <a href="https://github.com/Suhoy95" title="">GitHub</a></dd>
             </dl>
         </section>
     </main>
 
 gramendFooter(
     <<<img/15.gif>>>,
-    <<<Warm and cute>>>)m4_dnl
+    <<<Тепло и уютно>>>)m4_dnl

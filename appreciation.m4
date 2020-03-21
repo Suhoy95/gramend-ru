@@ -1,82 +1,82 @@
 m4_include(`include/gramend-main.m4')m4_dnl
-gramendHeader(<<<Appreciation - Gramend Research and Development>>>)m4_dnl
+gramendHeader(<<<Балгодарности - КИБ Грамэнд>>>)m4_dnl
 
     <main>
         <cite>
-            See the people behind the things
+            За каждым достижением найдется человек
         </cite>
         <section>
-            <h2>Companies</h2>
+            <h2>Компании</h2>
             <ul>
                 <li>
-                    <a href="https://www.labi2.ru" title="The first partner.">Laboratory 2 LTD</a>
-                    - thank you, without you nothing would have happened.
+                    <a href="https://www.labi2.ru" title="Первый клиент">Вторая лаборатория</a>
+                    - спасибо, без вас ничего бы не получилось.
                 </li>
                 <li>
                     <a href="https://www.jetbrains.com/">JetBrains</a>
-                    - thank you for showing how softwere development should look like.
+                    - спасибо, что показали как должна выглядеть разработка Программного Обеспечения.
                     <br />
-                    Particulary, for <a href="https://www.jetbrains.com/lp/mono/" title="">
-                        the great mono font</a>, we have already guessed how to make it better
+                    В частности, спасибо за <a href="https://www.jetbrains.com/lp/mono/" title="">
+                        отличный mono шрифт</a>, у нас уже есть иде как сделать его лучше
                         (<span title="Тoльko избрaнный Nео мoжeт видeть мaтрицу.">Пoдcкaзka</span>).
                 </li>
             </ul>
         </section>
 
         <section>
-            <h2>Universities</h2>
+            <h2>Университеты</h2>
             <ul>
                 <li>
-                    <a href="https://urfu.ru/en/" title="">Ural Federal University</a>
-                    - thank you for a lot of great people, who we met.
+                    <a href="https://urfu.ru/en/" title="">Уральский Федеральный Университет</a>
+                    - спасибо замечательным людям, которых я там встретил.
                 </li>
                 <li>
-                    <a href="https://hackerdom.ru/" title="">Hackerdom</a>
-                    - thank you for showing that Informational Security is fun and
-                    reachable.
+                    <a href="https://hackerdom.ru/" title="">Хакердом</a>
+                    - спасибо за путь в Информационную Безопасность
+.
                 </li>
                 <li>
                     <a href="https://ulearn.me/" title="">Ulearn.me</a>
-                    - thank you for showing C#. Now with .Net Core we know that
-                    it better than ugly Java.
+                    - спасибо что рассказали про C#. Теперь, с .Net Core у нас есть
+                    кое-что получше чем Java.
                 </li>
                 <li>
                     <a href="https://stepik.org/" title="">Stepik</a>
-                    - thank you for a lot of free courses, and particulary
-                    easy Linux courses.
+                    - спасибо за плеяду бесплатных курсов, в частности
+                    за Linux и Python курсы.
                 </li>
                 <li>
-                    <a href="https://university.innopolis.ru/en/" title="">Innopolis University</a>
-                    - thank you for showing how education can be. Hope, we make it better.
+                    <a href="https://university.innopolis.ru/en/" title="">Университет Иннополис</a>
+                    - спасибо, теперь мы знаем каким должно быть образование. Теперь, нужно делать его ещё лучше.
                 </li>
             </ul>
         </section>
 
         <section>
-            <h2>Books</h2>
-            <em>Coming soon...</em>
+            <h2>Книги</h2>
+            <em>Мы работаем над этим...</em>
         </section>
 
         <section>
-            <h2>World Wide Web</h2>
+            <h2>Всемирная паутина</h2>
             <ul>
                 <li>
                     <a href="https://www.w3.org/2019/html/" title="">Hypertext Markup Language</a>
-                    - thank you for this site.
+                    - спасибо, ьез вас сайт был бы другим.
                 </li>
                 <li>
                     <a href="https://getbootstrap.com/" title="">Bootstrap</a>
-                    - thank you for <code>.container</code> style snippet.
+                    - спасибо за  CSS-<code>.container</code> стиль.
                 </li>
             </ul>
         </section>
 
         <section>
-            <h2>Work in progress...</h2>
-            <p>There are so many things for which we should say "Thank you"...</p>
+            <h2>И все, все, все...</h2>
+            <p>В мире так много вещей, за которые нужно сказать "Спасибо"...</p>
         </section>
     </main>
 
 gramendFooter(
     <<<img/cookie.gif>>>,
-    <<<We do not use cookies, don't we?>>>)m4_dnl
+    <<<Мы не используем cookies, не так ли?>>>)m4_dnl

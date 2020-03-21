@@ -1,7 +1,7 @@
 m4_changequote(`<<<', `>>>')m4_dnl
 m4_define(<<<gramendHeader>>>, <<<m4_dnl
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
@@ -13,17 +13,17 @@ m4_define(<<<gramendHeader>>>, <<<m4_dnl
 
 <body>
     <header>
-        <a href="m4_regexp(m4___file__, <<<\(.*\)\.m4$>>>, <<<\1.en.html>>>)" title="English language" id="lang">
+        <a href="m4_regexp(m4___file__, <<<\(.*\)\.en\.m4$>>>, <<<\1.html>>>)" title="Русский язык" id="lang">
             <img
-                src="img/en-flag.png"
+                src="img/ru-flag.jpg"
                 height="22px"
             />
-            English
+            Русский
         </a>
         <nav>
-            <a href="index.html" title="Главная страница"><span class="logo">ツ</span>КИБ Грамэнд</a>
-            <a href="about.html" title="О компании">О компании</a>
-            <a href="appreciation.html" title="Для тех, кто помнит корни">Благодарности</a>
+            <a href="index.en.html" title="Main page"><span class="logo">ツ</span> Gramend R&D</a>
+            <a href="about.en.html" title="About company">About</a>
+            <a href="appreciation.en.html" title="For those who remember the roots">Appreciation</a>
         </nav>
     </header>
 
@@ -36,9 +36,9 @@ m4_define(<<<gramendFooter>>>, <<<m4_dnl
         <img src="$1" alt="$2" />
         <br />
         <nav>
-            <a id="html-validation" href="#" title="">Проверка HTML</a>
-            <a id="css-validation" href="#" title="">Проверка CSS</a>
-            <a href="https://github.com/Suhoy95/gramend-ru" title="">Опечатка? Пришли Pull-Request!</a>
+            <a id="html-validation" href="#" title="">HTML Validation</a>
+            <a id="css-validation" href="#" title="">CSS Validation</a>
+            <a href="https://github.com/Suhoy95/gramend-ru" title="">Found errata? Make Pull-Request!</a>
             <script>
                 document.getElementById("html-validation")
                     .setAttribute("href", `https://validator.w3.org/nu/?doc=${encodeURIComponent(window.location)}`);
@@ -49,15 +49,15 @@ m4_define(<<<gramendFooter>>>, <<<m4_dnl
         <br />
             <a href="http://ustalov.imm.uran.ru/"
                 target="_blank"
-                title="Помним и не забываем!"
+                title="Know the roots!"
                 style="text-decoration: none;"
             >
-                <img src="img/walking-cat.gif" alt="Кот">
-                <img src="img/counter.gif" alt="Сто-Пятсот просмотров">
+                <img src="img/walking-cat.gif" alt="A cat">
+                <img src="img/counter.gif" alt="Billions of visitors">
             </a>
             <a 
                 href="//www.w3.org/QA/Tools/Donate"
-                title="Поддержи чистый WEB"
+                title="Validators Donation Program"
             >
                 <img
                      src="//www.w3.org/QA/Tools/I_heart_validator_lg"
@@ -68,7 +68,7 @@ m4_define(<<<gramendFooter>>>, <<<m4_dnl
                 <img
                     style="border:0;width:88px;height:31px"
                     src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
-                    alt="Правильный CSS!"
+                    alt="Valid CSS!"
                 />
             </a>
     </footer>

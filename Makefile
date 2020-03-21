@@ -1,4 +1,5 @@
-PAGES=index.html about.html appreciation.html
+RU_PAGES=index.html about.html appreciation.html
+PAGES+=$(RU_PAGES) $(RU_PAGES:.html=.en.html)
 
 all: $(PAGES)
 
