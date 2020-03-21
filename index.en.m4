@@ -6,7 +6,7 @@ gramendHeader(<<<Gramend Research and Development - Main page>>>)m4_dnl
             <h5>Cite Of The Day</h5>
             <blockquote cite="https://quotes.yourdictionary.com/author/linus-torvalds/190283" class="torvalds-cite">
                 Do you pine for the nice days of minix-1.1,
-when men were men and wrote their own device drivers?
+                when men were men and wrote their own device drivers?
             </blockquote>
             <p class="torvalds">
                 Linus Torvalds
@@ -20,6 +20,7 @@ when men were men and wrote their own device drivers?
                 <p>
                     Published: <time datetime="2020-01-28T14:09:22+0400"> 01/28/2028</time>
                 </p>
+                <h2>Upcycle Windows 7 petition</h2>
                 <p style="text-align: center;">
                     <a href="https://u.fsf.org/upcycle">
                         <img

@@ -20,6 +20,7 @@ gramendHeader(<<<Конструкторско-Исследовательское
                 <p>
                     Опубликовано: <time datetime="2020-01-28T14:09:22+0400"> 28 января 2028 года</time>
                 </p>
+                <h2>Даешь исходные коды Windows 7 программистам!</h2>
                 <p style="text-align: center;">
                     <a href="https://u.fsf.org/upcycle">
                         <img
