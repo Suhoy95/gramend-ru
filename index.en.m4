@@ -18,7 +18,7 @@ gramendHeader(<<<Gramend Research and Development - Main page>>>)m4_dnl
             <article>
                 <hr />
                 <p>
-                    Published: <time datetime="2020-01-28T14:09:22+0400"> 01/28/2028</time>
+                    Published: <time datetime="2020-01-28T14:09:22+0400"> 01/28/2020</time>
                 </p>
                 <h2>Upcycle Windows 7 petition</h2>
                 <p style="text-align: center;">
