@@ -7,6 +7,7 @@ m4_define(<<<gramendHeader>>>, <<<m4_dnl
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="style.css">
     <title>$1</title>
 </head>
@@ -69,7 +70,7 @@ m4_define(<<<gramendFooter>>>, <<<m4_dnl
             <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank">
                 <img
                     style="border:0;width:88px;height:31px"
-                    src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+                    src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
                     alt="Valid CSS!"
                 />
             </a>
