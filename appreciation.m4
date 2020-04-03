@@ -62,7 +62,7 @@ gramendHeader(<<<Балгодарности - КИБ Грамэнд>>>)m4_dnl
             <ul>
                 <li>
                     <a href="https://www.w3.org/2019/html/" title="">Hypertext Markup Language</a>
-                    - спасибо, ьез вас сайт был бы другим.
+                    - спасибо, без вас сайт был бы другим.
                 </li>
                 <li>
                     <a href="https://getbootstrap.com/" title="">Bootstrap</a>
