@@ -1,5 +1,5 @@
 m4_include(`include/gramend-main.en.m4')m4_dnl
-gramendHeader(<<<Gramend Research and Development - Main page>>>)m4_dnl
+gramendHeader(<<<Gramend - Main page>>>)m4_dnl
 
     <main>
         <section>
@@ -14,7 +14,7 @@ gramendHeader(<<<Gramend Research and Development - Main page>>>)m4_dnl
         </section>
 
         <section>
-            <h2>Блог</h2>
+            <h2>Blog</h2>
             <article>
                 <hr />
                 <p>
@@ -22,11 +22,11 @@ gramendHeader(<<<Gramend Research and Development - Main page>>>)m4_dnl
                 </p>
                 <h2>Upcycle Windows 7 petition</h2>
                 <p style="text-align: center;">
-                    <a href="https://u.fsf.org/upcycle">
+                    <a_external href="https://u.fsf.org/upcycle" title="Upcycle Windows 7 petition image">
                         <img
-                            src="https://static.fsf.org/nosvn/windows/winupcycle_text.png"
-                            width="300"
-                            alt="Upcycle Windows 7 petition image">
+                        src="https://static.fsf.org/nosvn/windows/winupcycle_text.png"
+                        width="300"
+                        alt="Upcycle Windows 7 petition image" />
                     </a>
                 </p>
             </article>

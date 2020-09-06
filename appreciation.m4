@@ -9,14 +9,14 @@ gramendHeader(<<<Балгодарности - КИБ Грамэнд>>>)m4_dnl
             <h2>Компании</h2>
             <ul>
                 <li>
-                    <a href="https://www.labi2.ru" title="Первый клиент">Вторая лаборатория</a>
+                    <a_external href="https://www.labi2.ru" title="Первый клиент">Вторая лаборатория</a>
                     - спасибо, без вас ничего бы не получилось.
                 </li>
                 <li>
-                    <a href="https://www.jetbrains.com/">JetBrains</a>
+                    <a_external href="https://www.jetbrains.com/">JetBrains</a>
                     - спасибо, что показали как должна выглядеть разработка Программного Обеспечения.
                     <br />
-                    В частности, спасибо за <a href="https://www.jetbrains.com/lp/mono/" title="">
+                    В частности, спасибо за <a_external href="https://www.jetbrains.com/lp/mono/" title="JetBrains Mono">
                         отличный mono шрифт</a>, у нас уже есть иде как сделать его лучше
                         (<span title="Тoльko избрaнный Nео мoжeт видeть мaтрицу.">Пoдcкaзka</span>).
                 </li>
@@ -27,26 +27,26 @@ gramendHeader(<<<Балгодарности - КИБ Грамэнд>>>)m4_dnl
             <h2>Университеты</h2>
             <ul>
                 <li>
-                    <a href="https://urfu.ru/en/" title="">Уральский Федеральный Университет</a>
+                    <a_external href="https://urfu.ru/en/" title="Уральский Федеральный Университет (УрФУ)">Уральский Федеральный Университет</a>
                     - спасибо замечательным людям, которых я там встретил.
                 </li>
                 <li>
-                    <a href="https://hackerdom.ru/" title="">Хакердом</a>
+                    <a_external href="https://hackerdom.ru/" title="Хакердом">Хакердом</a>
                     - спасибо за путь в Информационную Безопасность
 .
                 </li>
                 <li>
-                    <a href="https://ulearn.me/" title="">Ulearn.me</a>
+                    <a_external href="https://ulearn.me/" title="Ulearn.me">Ulearn.me</a>
                     - спасибо что рассказали про C#. Теперь, с .Net Core у нас есть
                     кое-что получше чем Java.
                 </li>
                 <li>
-                    <a href="https://stepik.org/" title="">Stepik</a>
+                    <a_external href="https://stepik.org/" title="Stepik">Stepik</a>
                     - спасибо за плеяду бесплатных курсов, в частности
                     за Linux и Python курсы.
                 </li>
                 <li>
-                    <a href="https://university.innopolis.ru/en/" title="">Университет Иннополис</a>
+                    <a_external href="https://university.innopolis.ru/en/" title="Университет Иннополис">Университет Иннополис</a>
                     - спасибо, теперь мы знаем каким должно быть образование. Теперь, нужно делать его ещё лучше.
                 </li>
             </ul>
@@ -61,11 +61,11 @@ gramendHeader(<<<Балгодарности - КИБ Грамэнд>>>)m4_dnl
             <h2>Всемирная паутина</h2>
             <ul>
                 <li>
-                    <a href="https://www.w3.org/2019/html/" title="">Hypertext Markup Language</a>
+                    <a_external href="https://www.w3.org/2019/html/" title="Hypertext Markup Language (HTML)">Hypertext Markup Language</a>
                     - спасибо, без вас сайт был бы другим.
                 </li>
                 <li>
-                    <a href="https://getbootstrap.com/" title="">Bootstrap</a>
+                    <a_external href="https://getbootstrap.com/" title="Bootstrap">Bootstrap</a>
                     - спасибо за  CSS-<code>.container</code> стиль.
                 </li>
             </ul>

@@ -16,13 +16,13 @@ gramendHeader(<<<О компании - Конструкторско-Исслед
                 <dd>
                     Илья Сухоплюев
                     <br />
-                    магистр по построению безопасных Сетей и Приложений(<a href="https://os3.su/"
+                    магистр по построению безопасных Сетей и Приложений(<a_external href="https://os3.su/"
                         title="Open Standards, Open Software and Open Security">SNE/os3.su</a>)
                     <br />
-                    <a href="https://university.innopolis.ru/en/">Университет Иннополис</a>
+                    <a_external href="https://university.innopolis.ru/en/" title="Университет Иннополис">Университет Иннополис</a>
                 </dd>
                 <dt>Контакты:</dt>
-                <dd>Ищи на <a href="https://github.com/Suhoy95" title="">GitHub</a></dd>
+                <dd>Ищи на <a_external href="https://github.com/Suhoy95" title="Илья Сухоплюев (github.com)">GitHub</a></dd>
             </dl>
         </section>
     </main>

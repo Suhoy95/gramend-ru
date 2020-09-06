@@ -16,13 +16,13 @@ gramendHeader(<<<About the company - Gramend Research and Development>>>)m4_dnl
                 <dd>
                     Ilya Suhoplyuev
                     <br />
-                    master of Security and Network Engineering (<a href="https://os3.su/"
+                    master of Security and Network Engineering (<a_external href="https://os3.su/"
                         title="Open Standards, Open Software and Open Security">SNE/os3.su</a>)
                     <br />
-                    <a href="https://university.innopolis.ru/en/">Innopolis University</a>
+                    <a_external href="https://university.innopolis.ru/en/" title="Innopolis University">Innopolis University</a>
                 </dd>
                 <dt>Contacts:</dt>
-                <dd>See you on <a href="https://github.com/Suhoy95" title="">GitHub</a></dd>
+                <dd>See you on <a_external href="https://github.com/Suhoy95" title="Ilya Suhoplyuev (github.com)">GitHub</a></dd>
             </dl>
         </section>
     </main>

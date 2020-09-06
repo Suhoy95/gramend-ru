@@ -1,5 +1,5 @@
 m4_include(`include/gramend-main.m4')m4_dnl
-gramendHeader(<<<Конструкторско-Исследовательское Бюро Грамэнд - Главная>>>)m4_dnl
+gramendHeader(<<<Грамэнд - Главная>>>)m4_dnl
 
     <main>
         <section>
@@ -22,11 +22,11 @@ gramendHeader(<<<Конструкторско-Исследовательское
                 </p>
                 <h2>Даешь исходные коды Windows 7 программистам!</h2>
                 <p style="text-align: center;">
-                    <a href="https://u.fsf.org/upcycle">
+                    <a_external href="https://u.fsf.org/upcycle" title="Upcycle Windows 7 petition image">
                         <img
-                            src="https://static.fsf.org/nosvn/windows/winupcycle_text.png"
-                            width="300"
-                            alt="Upcycle Windows 7 petition image">
+                        src="https://static.fsf.org/nosvn/windows/winupcycle_text.png"
+                        width="300"
+                        alt="Upcycle Windows 7 petition image" />
                     </a>
                 </p>
             </article>
