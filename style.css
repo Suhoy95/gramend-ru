@@ -1,6 +1,6 @@
 @font-face {
     font-family: JetBrainsMono;
-    src: 
+    src:
     /* url(fonts/JetBrainsMono-Bold-Italic.ttf),
     url(fonts/JetBrainsMono-Bold.ttf),
     url(fonts/JetBrainsMono-ExtraBold-Italic.ttf),
@@ -79,4 +79,21 @@ dt {
 
 dd {
     padding-left: 3em;
+}
+
+table {
+    text-align: center;
+}
+
+table td {
+    padding: 0 0.5em 0;
+    border: 1px solid;
+}
+
+h2, h3, h4, h5, h6 {
+    padding: 0.5em 0 0.5em;
+}
+
+p {
+    padding-top: 0.5em;
 }
