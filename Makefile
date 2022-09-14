@@ -5,7 +5,8 @@ all: $(PAGES)
 
 %.html: %.m4 $(wildcard include/*)
 	m4 -I./include --fatal-warnings -P $< > $@
-	tidy -quiet -indent --wrap 120 -modify $@
+
+# tidy -quiet -indent --wrap 120 -modify $@
 
 clean:
 	git clean -xnf
