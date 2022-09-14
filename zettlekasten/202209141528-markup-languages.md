@@ -21,7 +21,7 @@ Notepad++ и прочих).
 - [Markdown](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html) -
     упрощенный язык разметки, используемый во многих мессенджерах и в частности, Программистами на GitHub.
     Имеет расширение `.md`
-- HTML - основной язык разметки для создания WEB-страниц и WEB-приложений.
+- [HTML](./202209141556-html.md) - основной язык разметки для создания WEB-страниц и WEB-приложений.
 - [LaTeX](https://ru.wikipedia.org/wiki/LaTeX) - Язык разметки, позволяющий создавать
     тексты, подготовленные для печати в Полиграфии. Пользуется популярностью у Ученных
     в написании статей и книг.
