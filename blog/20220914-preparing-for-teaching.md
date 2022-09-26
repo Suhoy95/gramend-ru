@@ -10,7 +10,7 @@
 [диктофона Сорока](https://www.labi2.ru/produkciya/miniatyurnye-diktofony/).
 
 TODO: связать переход на [Алабуга Политех](https://alabuga-polytech.ru/)
-и подвести к подготовке на Преподавателя в Академию ТОП ...
+и подвести к подготовке на Преподавателя в [Академию ТОП](https://izh.top-academy.ru/) ...
 
 
 ## TODO: План действий
